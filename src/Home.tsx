@@ -6,6 +6,7 @@ import Button from "@material-ui/core/Button";
 import { useHistory } from "react-router-dom";
 import ModuleSelection from "./ModuleSelection";
 import { AppHeader } from "./AppHeader";
+import { makeRoute } from "./makeRoute";
 
 const useStyles = makeStyles((theme: Theme) =>
   createStyles({
@@ -48,10 +49,6 @@ const Home: React.FC = () => {
   const { state } = useContext(AppContext);
   const { selectedModules, modules, handleModuleToggle } = state;
 
-  const handleGoClick = () => {
-    history.push("/test");
-  };
-
   return (
     <div className={classes.root}>
       <AppHeader />
@@ -70,7 +67,7 @@ const Home: React.FC = () => {
           variant="contained"
           color="primary"
           className={classes.button}
-          onClick={() => history.push("/word-list")}
+          onClick={() => history.push(makeRoute("/word-list"))}
           disabled={!selectedModules.length}
         >
           Word List
@@ -80,7 +77,7 @@ const Home: React.FC = () => {
           className={classes.button}
           color="primary"
           disabled={!selectedModules.length}
-          onClick={handleGoClick}
+          onClick={() => history.push(makeRoute("/test"))}
         >
           Test
         </Button>

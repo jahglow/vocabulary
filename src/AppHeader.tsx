@@ -8,16 +8,21 @@ import {
   Typography,
 } from "@material-ui/core";
 import ArrowBack from "@material-ui/icons/ArrowBack";
+import { ROOT_ROUTE, makeRoute } from "./makeRoute";
 
 export const AppHeader = () => {
   const classes = useStyles();
   const history = useHistory();
 
+  const isRoot =
+    history.location.pathname === ROOT_ROUTE ||
+    history.location.pathname === ROOT_ROUTE + "/";
+
   return (
     <AppBar className={classes.appBar} position="static">
       <Toolbar>
-        {history.location.pathname !== "/" && (
-          <IconButton onClick={() => history.push("/")}>
+        {!isRoot && (
+          <IconButton onClick={() => history.push(makeRoute("/"))}>
             <ArrowBack />
           </IconButton>
         )}
