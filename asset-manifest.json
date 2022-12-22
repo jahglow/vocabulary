@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/vocabulary/static/js/main.a4dff22f.js",
+    "index.html": "/vocabulary/index.html",
+    "main.a4dff22f.js.map": "/vocabulary/static/js/main.a4dff22f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a4dff22f.js"
+  ]
+}
