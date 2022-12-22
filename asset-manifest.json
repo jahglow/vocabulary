@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/vocabulary/static/js/main.1ecf270e.js",
+    "main.js": "/vocabulary/static/js/main.fa9a950d.js",
     "index.html": "/vocabulary/index.html",
-    "main.1ecf270e.js.map": "/vocabulary/static/js/main.1ecf270e.js.map"
+    "main.fa9a950d.js.map": "/vocabulary/static/js/main.fa9a950d.js.map"
   },
   "entrypoints": [
-    "static/js/main.1ecf270e.js"
+    "static/js/main.fa9a950d.js"
   ]
 }
