@@ -1,0 +1,506 @@
+[
+  {
+    "id": "lets-go",
+    "name": "Let's Go!",
+    "vocabulary": [
+      {
+        "phrase": "and",
+        "transcription": "/ǝnd/",
+        "translation": "и"
+      },
+      {
+        "phrase": "Fine, thanks!",
+        "transcription": "/faɪn 0ænks/",
+        "translation": "Спасибо, хорошо!"
+      },
+      {
+        "phrase": "go",
+        "transcription": "ɡəʊ",
+        "translation": "идти, ходить"
+      },
+      {
+        "phrase": "goodbye",
+        "transcription": "/ɡʊdˈbaɪ/",
+        "translation": "до свидания"
+      },
+      {
+        "phrase": "hello",
+        "transcription": "həˈləʊ",
+        "translation": "здравствуй(те)"
+      },
+      {
+        "phrase": "How are you?",
+        "transcription": "/haʊ a: ju/",
+        "translation": "Как дела?"
+      },
+      {
+        "phrase": "Let's",
+        "transcription": "/lets/",
+        "translation": "давай(те)"
+      },
+      {
+        "phrase": "I",
+        "transcription": "/ai/",
+        "translation": "я"
+      },
+      {
+        "phrase": "you",
+        "transcription": "/ju:/",
+        "translation": "ты, вы"
+      },
+      {
+        "phrase": "me",
+        "transcription": "/mi/",
+        "translation": "меня"
+      },
+      {
+        "phrase": "my",
+        "transcription": "/mai/",
+        "translation": "мой"
+      },
+      {
+        "phrase": "What's your name?",
+        "transcription": "/wots jo: neim/",
+        "translation": " Как тебя зовут?"
+      }
+    ]
+  },
+  {
+    "id": "Hello",
+    "name": "Hello",
+    "vocabulary": [
+      {
+        "phrase": "brother",
+        "transcription": "/brʌðə/",
+        "translation": "брат"
+      },
+      {
+        "phrase": "children",
+        "transcription": "/ˈtʃɪldrən/",
+        "translation": "дети"
+      },
+      {
+        "phrase": "daddy",
+        "transcription": "/dædi/",
+        "translation": "папа"
+      },
+      {
+        "phrase": "friend",
+        "transcription": "/frend/",
+        "translation": "друг"
+      },
+      {
+        "phrase": "grandma",
+        "transcription": "/grænma/",
+        "translation": "бабушка"
+      },
+      {
+        "phrase": "grandpa",
+        "transcription": "/grænpa:/",
+        "translation": "дедушка"
+      },
+      {
+        "phrase": "mummy",
+        "transcription": "/mʌmi/",
+        "translation": "мама"
+      },
+      {
+        "phrase": "sister",
+        "transcription": "/sistǝ/",
+        "translation": "сестра"
+      },
+      {
+        "phrase": "sit down",
+        "transcription": "/sit daun/",
+        "translation": "садись, садитесь"
+      },
+      {
+        "phrase": "stand up",
+        "transcription": "/stænd ʌp/",
+        "translation": "встань(те)"
+      }
+    ]
+  },
+  {
+    "id": "Family",
+    "name": "My Family!",
+    "vocabulary": [
+      {
+        "phrase": "blue",
+        "transcription": "/blu:/",
+        "translation": "голубой, синий"
+      },
+      {
+        "phrase": "colour",
+        "transcription": "/kʌlǝ/",
+        "translation": "цвет"
+      },
+      {
+        "phrase": "family",
+        "transcription": "/fæmili/",
+        "translation": "семья"
+      },
+      {
+        "phrase": "green",
+        "transcription": "/gri:n/",
+        "translation": "зелёный"
+      },
+      {
+        "phrase": "meet",
+        "transcription": "/mi:t/",
+        "translation": "встречаться, знакомиться"
+      },
+      {
+        "phrase": "red",
+        "transcription": "/red/",
+        "translation": "красный"
+      },
+      {
+        "phrase": "white",
+        "transcription": "/wait/",
+        "translation": "белый"
+      },
+      {
+        "phrase": "yellow",
+        "transcription": "/jelou/",
+        "translation": "жёлтый"
+      }
+    ]
+  },
+  {
+    "id": "unit-1",
+    "name": "Unit 1: My Home!",
+    "vocabulary": [
+      {
+        "phrase": "bed",
+        "transcription": "/bed/",
+        "translation": "кровать"
+      },
+      {
+        "phrase": "chair",
+        "transcription": "/tʃeə/",
+        "translation": "стул"
+      },
+      {
+        "phrase": "home",
+        "transcription": "/həʊm/",
+        "translation": "дом"
+      },
+      {
+        "phrase": "house",
+        "transcription": "/haʊs/",
+        "translation": "дом (строение)"
+      },
+      {
+        "phrase": "in",
+        "transcription": "/in/",
+        "translation": "B"
+      },
+      {
+        "phrase": "it",
+        "transcription": "/it/",
+        "translation": "он, она, оно (о предметах, животных)"
+      },
+      {
+        "phrase": "look at ",
+        "transcription": "/lʊk ət/",
+        "translation": "смотреть на что-либо, Кого-либо"
+      },
+      {
+        "phrase": "lovely",
+        "transcription": "/ˈlʌvlɪ/",
+        "translation": "прекрасный, красивый"
+      },
+      {
+        "phrase": "nice",
+        "transcription": "/naɪs/",
+        "translation": "хороший, милый"
+      },
+      {
+        "phrase": "our",
+        "transcription": "/ˈaʊə/",
+        "translation": "наш"
+      },
+      {
+        "phrase": "radio",
+        "transcription": "/ˈreɪdɪəʊ/",
+        "translation": "радио"
+      },
+      {
+        "phrase": "see",
+        "transcription": "/si:/",
+        "translation": "видеть"
+      },
+      {
+        "phrase": "table",
+        "transcription": "/ˈteɪbl/",
+        "translation": "стол"
+      },
+      {
+        "phrase": "tree house",
+        "transcription": "/tri: haʊs/",
+        "translation": "домик на дереве"
+      },
+      {
+        "phrase": "What's this?",
+        "transcription": "/'WDts dis/",
+        "translation": "Что это?"
+      },
+      {
+        "phrase": "yes",
+        "transcription": "/jes/",
+        "translation": "да"
+      }
+    ]
+  },
+  {
+    "id": "unit-2",
+    "name": "Unit 2: Where's Chuckles?",
+    "vocabulary": [
+      {
+        "phrase": "bathroom",
+        "transcription": "/ˈbɑːθruːm/",
+        "translation": "ванная комната"
+      },
+      {
+        "phrase": "bedroom",
+        "transcription": "/ˈbedruːm/",
+        "translation": "спальня"
+      },
+      {
+        "phrase": "black",
+        "transcription": "/blæk/",
+        "translation": "чёрный"
+      },
+      {
+        "phrase": "brown",
+        "transcription": "/braʊn/",
+        "translation": "коричневый"
+      },
+      {
+        "phrase": "garden",
+        "transcription": "/ˈɡɑːd(ə)n/",
+        "translation": "сад"
+      },
+      {
+        "phrase": "he",
+        "transcription": "/hiː/",
+        "translation": "он"
+      },
+      {
+        "phrase": "kitchen",
+        "transcription": "/ˈkɪtʃɪn/",
+        "translation": "кухня"
+      },
+      {
+        "phrase": "she",
+        "transcription": "/ʃiː/",
+        "translation": "она"
+      },
+      {
+        "phrase": "no",
+        "transcription": "/nəʊ/",
+        "translation": "хороший, нет"
+      },
+      {
+        "phrase": "where",
+        "transcription": "/weə/",
+        "translation": "где"
+      }
+    ]
+  },
+  {
+    "id": "Unit-4",
+    "name": "Unit 4: My Birthday!",
+    "vocabulary": [
+      {
+        "phrase": "candle",
+        "transcription": "/ˈkændl/",
+        "translation": "свеча"
+      },
+      {
+        "phrase": "eight",
+        "transcription": "/eit/",
+        "translation": "восемь"
+      },
+      {
+        "phrase": "birthday",
+        "transcription": "/ˈbɜːθdeɪ/",
+        "translation": "день рождения"
+      },
+      {
+        "phrase": "happy",
+        "transcription": "/ˈhæpɪ/",
+        "translation": "счастливый"
+      },
+      {
+        "phrase": "five",
+        "transcription": "/faiv/",
+        "translation": "пять"
+      },
+      {
+        "phrase": "four",
+        "transcription": "/fɔː/",
+        "translation": "четыре"
+      },
+      {
+        "phrase": "How old are you?",
+        "transcription": "/haʊ ould a: ju:/",
+        "translation": "Сколько тебе лет?"
+      },
+      {
+        "phrase": "nine",
+        "transcription": "/nain/",
+        "translation": "девять"
+      },
+      {
+        "phrase": "one",
+        "transcription": "/wʌn/",
+        "translation": "один"
+      },
+      {
+        "phrase": "party",
+        "transcription": "/ˈpɑːtɪ/",
+        "translation": "праздник"
+      },
+      {
+        "phrase": "sad",
+        "transcription": "/sæd/",
+        "translation": "грустный"
+      },
+      {
+        "phrase": "seven",
+        "transcription": "/seven/",
+        "translation": "семь"
+      },
+      {
+        "phrase": "six",
+        "transcription": "/siks/",
+        "translation": "шесть"
+      },
+      {
+        "phrase": "ten",
+        "transcription": "/ten/",
+        "translation": "десять"
+      },
+      {
+        "phrase": "they",
+        "transcription": "/ðeɪ/",
+        "translation": "они"
+      },
+      {
+        "phrase": "three",
+        "transcription": "/θriː/",
+        "translation": "три"
+      }
+    ]
+  },
+  {
+    "id": "Unit-5",
+    "name": "Unit 5: Yummy Chocolate!",
+    "vocabulary": [
+      {
+        "phrase": "apple",
+        "transcription": "/ˈæpl/",
+        "translation": "яблоко"
+      },
+      {
+        "phrase": "banana",
+        "transcription": "/bəˈnɑːnə/",
+        "translation": "банан"
+      },
+
+      {
+        "phrase": "biscuit",
+        "transcription": "/biskit/",
+        "translation": "печенье"
+      },
+      {
+        "phrase": "burger",
+        "transcription": "/ˈbɜːɡə/",
+        "translation": "бургер"
+      },
+      {
+        "phrase": "chips",
+        "transcription": "/tʃɪps/",
+        "translation": "жареная картошка, картофель фри"
+      },
+      {
+        "phrase": "chocolate",
+        "transcription": "/ˈtʃɒk(ə)lət/",
+        "translation": "шоколад"
+      },
+      {
+        "phrase": "give",
+        "transcription": "/ɡɪv/",
+        "translation": "давать"
+      },
+      {
+        "phrase": "please",
+        "transcription": "/pliːz/",
+        "translation": "пожалуйста"
+      },
+      {
+        "phrase": "sandwich",
+        "transcription": "/ˈsæn(d)wɪdʒ/",
+        "translation": "бутерброд"
+      },
+      {
+        "phrase": "Thank you!",
+        "transcription": "/θæŋk ju/",
+        "translation": "Спасибо!"
+      },
+      {
+        "phrase": "too",
+        "transcription": "/tu:/",
+        "translation": "тоже"
+      },
+      {
+        "phrase": "What's your favourite food?",
+        "transcription": "/wɒts jo ˈfeɪv(ə)rɪt fu:d/",
+        "translation": "Какая у тебя любимая еда?"
+      },
+      {
+        "phrase": "yummy",
+        "transcription": "/ˈjʌmɪ/",
+        "translation": "вкусный"
+      },
+      {
+        "phrase": "ten",
+        "transcription": "/ten/",
+        "translation": "десять"
+      }
+    ]
+  },
+  {
+    "id": "Unit-6",
+    "name": "Unit 6: My Favourite Food!",
+    "vocabulary": [
+      {
+        "phrase": "eat",
+        "transcription": "/iːt/",
+        "translation": "есть"
+      },
+      {
+        "phrase": "ice cream",
+        "transcription": "/ais kri:m/",
+        "translation": "мороженое"
+      },
+      {
+        "phrase": "milk",
+        "transcription": "/milk/",
+        "translation": "молоко"
+      },
+      {
+        "phrase": "orange juice",
+        "transcription": "/ˈɒrɪn(d)ʒ dʒuːs/",
+        "translation": "апельсиновый сок"
+      },
+      {
+        "phrase": "pizza",
+        "transcription": "/ˈpiːtsə/",
+        "translation": "пицца"
+      }
+    ]
+  }
+]
